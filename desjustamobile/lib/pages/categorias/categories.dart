@@ -1,10 +1,9 @@
 import 'dart:convert';
 
+import 'package:desjustamobile/model/wallpaper_model.dart';
+import 'package:desjustamobile/widgets/widget.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
-
-import 'package:wallpaperapp/model/wallpaper_model.dart';
-import 'package:wallpaperapp/widgets/widget.dart';
 
 class Categorie extends StatefulWidget {
   final String categorieName;

@@ -1,6 +1,6 @@
+import 'package:desjustamobile/pages/home/home.dart';
+import 'package:desjustamobile/theme/theme.dart';
 import 'package:flutter/material.dart';
-import 'package:wallpaperapp/pages/home/home.dart';
-import 'package:wallpaperapp/theme/theme.dart';
 
 void main() {
   runApp(MyApp());

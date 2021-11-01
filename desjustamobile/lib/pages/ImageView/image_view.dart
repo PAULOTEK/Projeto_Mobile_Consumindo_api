@@ -50,7 +50,7 @@ class _ImageViewState extends State<ImageView> {
                       borderRadius: BorderRadius.circular(30),
                     ),
                     child: Text(
-                      "Back",
+                      "",
                       style: TextStyle(
                         fontSize: 28,
                         fontWeight: FontWeight.w700,

@@ -1,4 +1,4 @@
-import 'package:wallpaperapp/model/categories_model.dart';
+import 'package:desjustamobile/model/categories_model.dart';
 
 String apiKey = "563492ad6f917000010000013761c1e39a074a9fac5daf4a4e876f3a";
 

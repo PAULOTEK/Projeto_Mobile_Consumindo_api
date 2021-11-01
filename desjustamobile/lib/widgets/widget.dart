@@ -1,8 +1,8 @@
+import 'package:desjustamobile/model/wallpaper_model.dart';
+import 'package:desjustamobile/pages/ImageView/image_view.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:wallpaperapp/model/wallpaper_model.dart';
-import 'package:wallpaperapp/pages/ImageView/image_view.dart';
 
 Widget brandName() {
   return Center(
